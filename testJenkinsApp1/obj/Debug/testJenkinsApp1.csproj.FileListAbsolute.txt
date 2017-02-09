@@ -1,0 +1,9 @@
+D:\EDR\FFLUtilities\testJenkins1\testJenkinsApp1\testJenkinsApp1\bin\Debug\testJenkinsApp1.exe.config
+D:\EDR\FFLUtilities\testJenkins1\testJenkinsApp1\testJenkinsApp1\bin\Debug\testJenkinsApp1.exe
+D:\EDR\FFLUtilities\testJenkins1\testJenkinsApp1\testJenkinsApp1\bin\Debug\testJenkinsApp1.pdb
+D:\EDR\FFLUtilities\testJenkins1\testJenkinsApp1\testJenkinsApp1\obj\Debug\testJenkinsApp1.csprojResolveAssemblyReference.cache
+D:\EDR\FFLUtilities\testJenkins1\testJenkinsApp1\testJenkinsApp1\obj\Debug\testJenkinsApp1.Form1.resources
+D:\EDR\FFLUtilities\testJenkins1\testJenkinsApp1\testJenkinsApp1\obj\Debug\testJenkinsApp1.Properties.Resources.resources
+D:\EDR\FFLUtilities\testJenkins1\testJenkinsApp1\testJenkinsApp1\obj\Debug\testJenkinsApp1.csproj.GenerateResource.Cache
+D:\EDR\FFLUtilities\testJenkins1\testJenkinsApp1\testJenkinsApp1\obj\Debug\testJenkinsApp1.exe
+D:\EDR\FFLUtilities\testJenkins1\testJenkinsApp1\testJenkinsApp1\obj\Debug\testJenkinsApp1.pdb
